@@ -1,28 +1,17 @@
-```
 <div align="center">
   <br>
-  <pre style="font-family: 'Courier New', monospace; font-size: 34px; color: #F97316; font-weight: 900; line-height: 1.3; text-shadow: 3px 3px 6px rgba(0,0,0,0.6); margin: 0;">
-T
-Te
-Tel
-Tele
-TeleJ
-TeleJh
-TeleJhB
-TeleJhBo
-TeleJhBot
-  </pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=600&height=80&lines=TeleJhBot" alt="TeleJhBot">
   <br>
-  <h3 style="color:#F97316; font-size:26px; font-weight:300; letter-spacing:3px; text-shadow: 1px 1px 3px rgba(0,0,0,0.5);">
+  <h3 style="color:#F97316; font-size:24px; font-weight:300; letter-spacing:4px;">
     ⚡ ربات جرئت یا حقیقت گروهی تلگرام ⚡
   </h3>
   <br>
-  <p style="color:#B0B0B0; font-size:16px;">
-    <strong style="color:#F97316; text-shadow: 1px 1px 3px rgba(0,0,0,0.5);">بازی‌ای پر از هیجان، چالش و خنده</strong>
+  <p style="color:#B0B0B0; font-size:14px;">
+    <strong style="color:#F97316; font-weight:700;">بازی‌ای پر از هیجان، چالش و خنده</strong>
   </p>
   <br>
-  <img src="https://img.shields.io/badge/نسخه-1.0.0-F97316?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/مجوز-MIT-F97316?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/v/release/ItzJustEren/TeleJhBot?style=for-the-badge&color=F97316&label=نسخه" alt="Release">
+  <img src="https://img.shields.io/github/license/ItzJustEren/TeleJhBot?style=for-the-badge&color=F97316" alt="License">
   <img src="https://img.shields.io/badge/Python-3.11-F97316?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/aiogram-3.4-F97316?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram">
   <img src="https://img.shields.io/badge/Railway-آماده-F97316?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
@@ -31,66 +20,67 @@ TeleJhBot
 
 ---
 
-## 🎯 TeleJhBot چیست؟
+🎯 TeleJhBot چیست؟
 
-**TeleJhBot** یک ربات کامل و حرفه‌ای برای بازی **جرئت یا حقیقت** در گروه‌های تلگرامی است. این ربات با سیستم نوبت‌دهی هوشمند، رای‌گیری آنلاین و چالش‌های درون‌تلگرامی، هر دورهمی را به یک مهمانی پرهیجان تبدیل می‌کند.
+TeleJhBot یک ربات کامل و حرفه‌ای برای بازی جرئت یا حقیقت در گروه‌های تلگرامی است. این ربات با سیستم نوبت‌دهی هوشمند، رای‌گیری آنلاین و چالش‌های درون‌تلگرامی، هر دورهمی را به یک مهمانی پرهیجان تبدیل می‌کند.
 
 دیگه نگران انتخاب نفر بعدی یا پیدا کردن سوال نباش! همه‌چیز به‌صورت خودکار و تصادفی انجام میشه.
 
 ---
 
-## ✨ امکانات جذاب
+✨ امکانات جذاب
 
-### 🔥 هسته اصلی بازی
-- **شروع خودکار** با حداقل ۳ نفر و تایمر ۶۰ ثانیه‌ای که با هر عضو جدید ریست میشه
-- **دریافت لیست سوالات** از شروع‌کننده در هر دور (همیشه تازه و دلخواه)
-- **انتخاب تصادفی** پرسنده، پاسخ‌دهنده و خود سوال از لیست
-- **پاسخ‌دهی با ریپلای** و نمایش تعداد پاسخ‌دهندگان به‌صورت لحظه‌ای
-- **تایم‌اوت ۶۰ ثانیه** برای پاسخگویی، در غیر این صورت رای‌گیری شروع میشه
+🔥 هسته اصلی بازی
 
-### 🗳️ سیستم رای‌گیری و مجازات
-- **رای‌گیری با دکمه‌های شیشه‌ای** و نمایش اسامی بازیکنان
-- **جلوگیری از رای به خود** با پیام بامزه
-- **تعیین مجازات‌دهنده** با بیشترین رای
-- **ثبت چالش** توسط برنده با ریپلای به پیام ربات
-- **۶ دقیقه فرصت** برای اجرای چالش، در غیر این صورت بازی تموم میشه!
+· شروع خودکار با حداقل ۳ نفر و تایمر ۶۰ ثانیه‌ای که با هر عضو جدید ریست میشه
+· دریافت لیست سوالات از شروع‌کننده در هر دور (همیشه تازه و دلخواه)
+· انتخاب تصادفی پرسنده، پاسخ‌دهنده و خود سوال از لیست
+· پاسخ‌دهی با ریپلای و نمایش تعداد پاسخ‌دهندگان به‌صورت لحظه‌ای
+· تایم‌اوت ۶۰ ثانیه برای پاسخگویی، در غیر این صورت رای‌گیری شروع میشه
 
-### 🛡️ امکانات جانبی
-- **مدیریت کامل خطاها** و جلوگیری از پیام‌های نامعتبر
-- **پشتیبانی از گروه‌های بزرگ** و مدیریت همزمان چند بازی
-- **رابط کاربری ساده و روان** با دکمه‌های تعاملی
+🗳️ سیستم رای‌گیری و مجازات
 
----
+· رای‌گیری با دکمه‌های شیشه‌ای و نمایش اسامی بازیکنان
+· جلوگیری از رای به خود با پیام بامزه
+· تعیین مجازات‌دهنده با بیشترین رای
+· ثبت چالش توسط برنده با ریپلای به پیام ربات
+· ۶ دقیقه فرصت برای اجرای چالش، در غیر این صورت بازی تموم میشه!
 
-## 🧠 تکنولوژی‌های استفاده شده
+🛡️ امکانات جانبی
 
-| بخش | فناوری |
-|-----|--------|
-| **زبان برنامه‌نویسی** | Python 3.11 |
-| **فریم‌ورک ربات** | aiogram 3 (جدیدترین نسخه) |
-| **مدیریت تایمرها** | APScheduler |
-| **ذخیره‌سازی موقت** | MemoryStorage (سریع و سبک) |
-| **دپلوی** | آماده برای Railway با Procfile |
+· مدیریت کامل خطاها و جلوگیری از پیام‌های نامعتبر
+· پشتیبانی از گروه‌های بزرگ و مدیریت همزمان چند بازی
+· رابط کاربری ساده و روان با دکمه‌های تعاملی
 
 ---
 
-## 📁 ساختار پروژه
+🧠 تکنولوژی‌های استفاده شده
+
+بخش فناوری
+زبان برنامه‌نویسی Python 3.11
+فریم‌ورک ربات aiogram 3 (جدیدترین نسخه)
+مدیریت تایمرها APScheduler
+ذخیره‌سازی موقت MemoryStorage (سریع و سبک)
+دپلوی آماده برای Railway با Procfile
+
+---
+
+📁 ساختار پروژه
 
 ```
-
 TeleJhBot/
 ├── bot.py              # کد اصلی ربات
 ├── requirements.txt    # وابستگی‌ها
 ├── Procfile            # برای Railway
 └── runtime.txt         # نسخه پایتون
-
 ```
 
 ---
 
-## 🚀 نصب و اجرا در ۳ قدم
+🚀 نصب و اجرا در ۳ قدم
 
-1️⃣ **کلون ریپازیتوری**
+1️⃣ کلون ریپازیتوری
+
 ```bash
 git clone https://github.com/ItzJustEren/TeleJhBot.git
 cd TeleJhBot
@@ -171,4 +161,3 @@ python bot.py
   </p>
   <br>
 </div>
-```
